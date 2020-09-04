@@ -4,9 +4,9 @@ My name is Luis Beu. I like experimenting with new technologies, building small 
 
 Here's a list of things I do:
 
-- 👩🏻‍💻 Working as a full stack developer over [@jochen-schweizer](https://www.jochen-schweizer.de/)
-- ☀️ Working on my personal website [luisbeu.de](https://luisbeu.de/)
-- 🛠 Try to publish more stuff on github
+- 👩🏻‍💻 Working as a full stack developer over [@jochen-schweizer](https://www.jochen-schweizer.de/).
+- ☀️ Working on my personal website [luisbeu.de](https://luisbeu.de/).
+- 🛠 Try to publish more stuff on github.
 
 ## 🔧 Technologies and tools I use, learn and experiment with
 ![](https://img.shields.io/static/v1?message=debian&style=for-the-badge&logo=debian&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
