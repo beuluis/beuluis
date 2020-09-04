@@ -5,7 +5,7 @@ My name is Luis Beu. I like experimenting with new technologies, building small 
 Here's a list of things I do:
 
 - 👩🏻‍💻 Working as a full stack developer over [@jochen-schweizer](https://www.jochen-schweizer.de/)
-- ☀️ Working on my personal website [beuluis.de](https://beuluis.de/)
+- ☀️ Working on my personal website [luisbeu.de](https://luisbeu.de/)
 - 🛠 Try to publish more stuff on github
 
 ## 🔧 Technologies and tools I use, learn and experiment with
