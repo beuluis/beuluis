@@ -79,6 +79,6 @@ Here's a list of things I do:
 
 ## Contact me
 <p align="center">
-    <a href="me@luisbeu.de" alt="Contact me"><img src="https://raw.githubusercontent.com/beuluis/beuluis/develop/img/mail-fill.svg"></a>
+    <a href="mailto:me@luisbeu.de" alt="Contact me"><img src="https://raw.githubusercontent.com/beuluis/beuluis/develop/img/mail-fill.svg"></a>
     <a href="https://luisbeu.de" alt="My site"><img src="https://raw.githubusercontent.com/beuluis/beuluis/develop/img/external-link-line.svg"></a>
 </p>
