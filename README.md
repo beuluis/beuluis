@@ -11,7 +11,7 @@ Here's a list of things I do:
 - 🔩 Tinker around on arduino
 - ⚙️ 3D printing
 
-## 🔧 Technologies and tools I use, learn and experiment with
+## 🔧 Technologies and tools I use, learn and experiment with (no particular order)
 ![](https://img.shields.io/static/v1?message=debian&style=for-the-badge&logo=debian&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=apache&style=for-the-badge&logo=apache&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=gitlab&style=for-the-badge&logo=gitlab&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
@@ -76,6 +76,20 @@ Here's a list of things I do:
 ![](https://img.shields.io/static/v1?message=tor&style=for-the-badge&logo=tor&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=npm&style=for-the-badge&logo=npm&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=git&style=for-the-badge&logo=git&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=nestjs&style=for-the-badge&logo=nestjs&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=axios&style=for-the-badge&logo=axios&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=i18next&style=for-the-badge&logo=i18next&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=yup&style=for-the-badge&logo=yup&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=browserlist&style=for-the-badge&logo=browserlist&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=husky&style=for-the-badge&logo=husky&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=prettier&style=for-the-badge&logo=prettier&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=fastify&style=for-the-badge&logo=fastify&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=kafka&style=for-the-badge&logo=kafka&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=openapi&style=for-the-badge&logo=openapi&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=aws&style=for-the-badge&logo=aws&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=typeorm&style=for-the-badge&logo=typeorm&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=supertest&style=for-the-badge&logo=supertest&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
+![](https://img.shields.io/static/v1?message=platformio&style=for-the-badge&logo=platformio&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 
 ## &#x1f4c8; GitHub Stats (Trying to do more)
 [![Luis github stats](https://github-readme-stats.vercel.app/api?username=beuluis&show_icons=true&include_all_commits=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
