@@ -101,8 +101,8 @@ Here's a list of some things I do:
 ## Contact me
 
 <p align="center">
-    <a href="mailto:me@luisbeu.de" alt="Contact me"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/email.svg"></a>
-    <a href="https://luisbeu.de" alt="My site"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/globe.svg"></a>
-    <a href="https://www.linkedin.com/in/beuluis" alt="LinkedIn"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/linkedin.svg"></a>
+    <a href="mailto:me@luisbeu.de" alt="Contact me"><img height="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/email.svg"></a>
+    <a href="https://luisbeu.de" alt="My site"><img height="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/globe.svg"></a>
+    <a href="https://www.linkedin.com/in/beuluis" alt="LinkedIn"><img height="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/linkedin.svg"></a>
 </p>
 
