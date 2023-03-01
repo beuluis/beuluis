@@ -1,8 +1,8 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/beuluis/beuluis/develop/img/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/wave.gif" width="30px">
 
-My name is Luis Beu. I like experimenting with new technologies, building small projects, and automate things.
+My name is Luis Beu. I like experimenting with new technologies, building fun projects, and automate things.
 
-Here's a list of things I do:
+Here's a list of some things I do:
 
 - 👩🏻‍💻 Working as a full stack developer over [@jochen-schweizer](https://www.jochen-schweizer.de/).
 - ☀️ Working on my personal website [luisbeu.de](https://luisbeu.de/).
@@ -11,7 +11,8 @@ Here's a list of things I do:
 - 🔩 Tinker around on arduino
 - ⚙️ 3D printing
 
-## 🔧 Technologies and tools I use, learn and experiment with (no particular order)
+## 🔧 Technologies and tools I use, learn and experiment with (no particular order and always expanding)
+
 ![](https://img.shields.io/static/v1?message=debian&style=for-the-badge&logo=debian&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=apache&style=for-the-badge&logo=apache&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=gitlab&style=for-the-badge&logo=gitlab&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
@@ -91,12 +92,17 @@ Here's a list of things I do:
 ![](https://img.shields.io/static/v1?message=supertest&style=for-the-badge&logo=supertest&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 ![](https://img.shields.io/static/v1?message=platformio&style=for-the-badge&logo=platformio&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
 
-## &#x1f4c8; GitHub Stats (Trying to do more)
-[![Luis github stats](https://github-readme-stats.vercel.app/api?username=beuluis&show_icons=true&include_all_commits=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=beuluis&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+
+![Luis GitHub stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beuluis&theme=transparent)
 
 ## Contact me
+
 <p align="center">
-    <a href="mailto:me@luisbeu.de" alt="Contact me"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/develop/img/mail-fill.svg"></a>
-    <a href="https://luisbeu.de" alt="My site"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/develop/img/external-link-line.svg"></a>
-    <a href="https://www.linkedin.com/in/beuluis" alt="LinkedIn"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"></a>
+    <a href="mailto:me@luisbeu.de" alt="Contact me"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/email.svg"></a>
+    <a href="https://luisbeu.de" alt="My site"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/globe.svg"></a>
+    <a href="https://www.linkedin.com/in/beuluis" alt="LinkedIn"><img width="30px" src="https://raw.githubusercontent.com/beuluis/beuluis/main/img/linkedin.svg"></a>
 </p>
+
