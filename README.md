@@ -11,6 +11,12 @@ Here's a list of some things I do:
 - 🔩 Tinker around on arduino
 - ⚙️ 3D printing
 
+## 📄 Documentation
+
+I keep all my general documentation in my [personal wiki](https://github.com/beuluis/beuluis/wiki).
+
+All repository specific documentation can be found in the repositories `README.md` and/or the repository wiki.
+
 ## 🔧 Technologies and tools I use, learn and experiment with (no particular order and always expanding)
 
 ![](https://img.shields.io/static/v1?message=debian&style=for-the-badge&logo=debian&logoColor=white&color=45B39D&labelColor=5c5c5c&&label=%20)
