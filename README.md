@@ -11,11 +11,9 @@ Here's a list of some things I do:
 - 🔩 Tinker around on arduino
 - ⚙️ 3D printing
 
-## 📄 Documentation
+## 🏢 Organization
 
-I keep all my general documentation in my [personal wiki](https://github.com/beuluis/beuluis/wiki).
-
-All repository specific documentation can be found in the repositories `README.md` and/or the repository wiki.
+I keep all my repositories in my [personal organization](https://github.com/Beuterei).
 
 ## 🔧 Technologies and tools I use, learn and experiment with (no particular order and always expanding)
 
